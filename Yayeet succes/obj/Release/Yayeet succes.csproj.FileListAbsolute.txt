@@ -1,0 +1,13 @@
+C:\Users\NetCity\Desktop\Yayeet\Yayeet succes.exe.config
+C:\Users\NetCity\Desktop\Yayeet\Yayeet succes.exe
+C:\Users\NetCity\Desktop\Yayeet\Yayeet succes.pdb
+C:\Users\NetCity\source\repos\Yayeet succes\Yayeet succes\obj\Release\Yayeet succes.csprojAssemblyReference.cache
+C:\Users\NetCity\source\repos\Yayeet succes\Yayeet succes\obj\Release\Yayeet_succes.Form1.resources
+C:\Users\NetCity\source\repos\Yayeet succes\Yayeet succes\obj\Release\Yayeet_succes.Properties.Resources.resources
+C:\Users\NetCity\source\repos\Yayeet succes\Yayeet succes\obj\Release\Yayeet succes.csproj.GenerateResource.cache
+C:\Users\NetCity\source\repos\Yayeet succes\Yayeet succes\obj\Release\Yayeet succes.csproj.CoreCompileInputs.cache
+C:\Users\NetCity\source\repos\Yayeet succes\Yayeet succes\obj\Release\Yayeet succes.csproj.CopyComplete
+C:\Users\NetCity\source\repos\Yayeet succes\Yayeet succes\obj\Release\Yayeet succes.exe
+C:\Users\NetCity\source\repos\Yayeet succes\Yayeet succes\obj\Release\Yayeet succes.pdb
+C:\Users\NetCity\source\repos\Yayeet succes\Yayeet succes\obj\Release\Yayeet_succes.Form2.resources
+C:\Users\NetCity\source\repos\Yayeet succes\Yayeet succes\obj\Release\Yayeet_succes.Form3.resources
